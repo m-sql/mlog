@@ -54,7 +54,7 @@
 5、让我们一起！在微服务监控的 `金字塔 : 增砖添瓦`
 
 ```
-[One Demo](https://github.com/m-sql/mlog/blob/master/imgs/proxy.png)
+![One Demo picture](https://github.com/m-sql/mlog/blob/master/imgs/proxy.png)
 
 ##### 参考链接：
 * 1、https://github.com/grafana/loki
