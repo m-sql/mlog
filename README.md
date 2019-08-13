@@ -38,6 +38,7 @@
 ### 年后计划
 ```
 ④四期：完成告警归集和存储（基于Redis和MySQL）
+
 ⑤五期：完成后台可视化分析（基于React和node.js）
 ```
 
@@ -54,6 +55,18 @@
 5、让我们一起！在微服务监控的 `金字塔 : 增砖添瓦`
 
 ```
+.
+
+.
+
+.
+
+### TODO List
+
+① 一期：设计Demo
+
+
+![One Demo](https://github.com/m-sql/mlog/blob/master/imgs/proxy.png)
 
 
 ##### 参考链接：
