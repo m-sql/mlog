@@ -70,7 +70,7 @@
 
 #### ① 一期：新增 设计图、功能PK图
 
-
+![design PK](https://github.com/m-sql/mlog/blob/master/src/pk.jpg)
 
 ##### 参考链接：
 * 1、https://github.com/grafana/loki
