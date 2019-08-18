@@ -61,12 +61,15 @@
 
 .
 
-### TODO List
+### DO The List
 
-① 一期：设计Demo
+#### ① 一期：设计Demo
 
 
 ![One Demo](https://github.com/m-sql/mlog/blob/master/imgs/proxy.png)
+
+#### ① 一期：新增 设计图、功能PK图
+
 
 
 ##### 参考链接：
