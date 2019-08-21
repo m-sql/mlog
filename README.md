@@ -68,9 +68,14 @@
 
 ![One Demo](https://github.com/m-sql/mlog/blob/master/imgs/proxy.png)
 
-#### ① 一期：新增 设计图、功能PK图
+#### ② 一期：新增 设计图、功能PK图
 
 ![design PK](https://github.com/m-sql/mlog/blob/master/src/pk.jpg)
+
+#### ③ 二期：及时微信群通知demo
+
+* 示例 DEMO ：https://github.com/m-sql/mchat
+
 
 ##### 参考链接：
 * 1、https://github.com/grafana/loki
