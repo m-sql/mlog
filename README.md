@@ -65,10 +65,13 @@
 
 #### ① 一期：设计Demo
 
-
 ![One Demo](https://github.com/m-sql/mlog/blob/master/imgs/proxy.png)
 
 #### ② 一期：新增 设计图、功能PK图
+
+![design ELK](https://github.com/m-sql/mlog/blob/master/src/ELK.jpg)
+
+![design GPE](https://github.com/m-sql/mlog/blob/master/src/GPE.jpg)
 
 ![design PK](https://github.com/m-sql/mlog/blob/master/src/pk.jpg)
 
